@@ -6,7 +6,7 @@
 | ---- | ---- | ----------- | ----- |
 | **meta** | [**PaginationMeta**](PaginationMeta.md) |  | [optional] |
 | **links** | [**PaginationLinks**](PaginationLinks.md) |  | [optional] |
-| **data** | [**Array&lt;PrincipalPaginationAllOfDataInner&gt;**](PrincipalPaginationAllOfDataInner.md) |  |  |
+| **data** | [**Array&lt;PrincipalPaginationAllOfData&gt;**](PrincipalPaginationAllOfData.md) |  |  |
 
 ## Example
 

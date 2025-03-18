@@ -6,7 +6,7 @@
 | ---- | ---- | ----------- | ----- |
 | **meta** | [**PaginationMeta**](PaginationMeta.md) |  | [optional] |
 | **links** | [**PaginationLinks**](PaginationLinks.md) |  | [optional] |
-| **data** | [**Array&lt;CrossAccountRequestPaginationAllOfDataInner&gt;**](CrossAccountRequestPaginationAllOfDataInner.md) |  |  |
+| **data** | [**Array&lt;CrossAccountRequestPaginationAllOfData&gt;**](CrossAccountRequestPaginationAllOfData.md) |  |  |
 
 ## Example
 
