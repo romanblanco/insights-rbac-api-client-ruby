@@ -11,5 +11,5 @@ Generator version: 7.13.0-SNAPSHOT
 =end
 
 module RBACApiClient
-  VERSION = '2.0.0'
+  VERSION = '3.0.0'
 end

@@ -3,7 +3,7 @@
 	"gemName": "insights-rbac-api-client",
 	"gemHomepage" : "https://github.com/RedHatInsights/insights-rbac-api-client-ruby",
 	"gemAuthor" : "Insights Authors",
-	"gemVersion": "2.0.0",
+	"gemVersion": "3.0.0",
 	"gemLicense" : "Apache-2.0",
 	"gemDescription" : "Ruby client gem to connect to Insights RBAC Service"
 }

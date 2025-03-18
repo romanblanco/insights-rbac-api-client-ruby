@@ -8,4 +8,4 @@ script:
   - bundle install --path vendor/bundle
   - bundle exec rspec
   - gem build insights-rbac-api-client.gemspec
-  - gem install ./insights-rbac-api-client-2.0.0.gem
+  - gem install ./insights-rbac-api-client-3.0.0.gem
