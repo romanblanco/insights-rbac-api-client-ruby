@@ -5,7 +5,8 @@ rvm:
   - 3.0
   - 3.1
 script:
-  - bundle install --path vendor/bundle
+  - bundle config set --local path 'vendor/bundle'
+  - bundle install
   - bundle exec rspec
   - gem build insights-rbac-api-client.gemspec
   - gem install ./insights-rbac-api-client-3.0.0.gem
